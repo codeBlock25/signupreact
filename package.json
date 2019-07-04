@@ -1,0 +1,46 @@
+{
+  "name": "sign_up_page",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "a-color-picker": "^1.1.7",
+    "axios": "^0.18.0",
+    "bootstrap": "^4.2.1",
+    "firebase": "^5.8.4",
+    "jquery": "^3.3.1",
+    "jwt-decode": "^2.2.0",
+    "lax.js": "^1.2.3",
+    "please-wait": "0.0.5",
+    "poper": "^0.1.1",
+    "react": "^16.7.0",
+    "react-awesome-scroll": "^0.1.4",
+    "react-bootstrap": "^0.32.4",
+    "react-color": "^2.17.0",
+    "react-dom": "^16.7.0",
+    "react-helmet": "^5.2.0",
+    "react-redux": "^6.0.0",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.3",
+    "react-tilt": "^0.1.4",
+    "react-video-tag": "0.0.10",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0",
+    "sanitize": "^2.1.0",
+    "uuid": "^3.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
